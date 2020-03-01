@@ -9,13 +9,6 @@
 	<classpathentry kind="lib" path="D:/Library/sqlite-jdbc-3.8.11.1.jar"/>
 	<classpathentry kind="lib" path="D:/Library/mongodb-driver-3.0.4.jar"/>
 	<classpathentry kind="lib" path="D:/Library/mongodb-driver-core-3.0.4.jar"/>
-	<classpathentry kind="lib" path="D:/Library/client-combined-3.141.59-sources.jar"/>
-	<classpathentry kind="lib" path="D:/Library/client-combined-3.141.59.jar"/>
-	<classpathentry kind="lib" path="D:/Library/byte-buddy-1.8.15.jar"/>
-	<classpathentry kind="lib" path="D:/Library/okhttp-3.11.0.jar"/>
-	<classpathentry kind="lib" path="D:/Library/okio-1.14.0.jar"/>
-	<classpathentry kind="lib" path="D:/Library/guava-25.0-jre.jar"/>
-	<classpathentry kind="lib" path="D:/Library/commons-exec-1.3.jar"/>
 	<classpathentry kind="lib" path="D:/reference libraries/commons-io-2.6.jar"/>
 	<classpathentry kind="lib" path="D:/reference libraries/commons-io-2.6-javadoc.jar"/>
 	<classpathentry kind="lib" path="D:/reference libraries/commons-io-2.6-sources.jar"/>
@@ -41,5 +34,13 @@
 	<classpathentry kind="lib" path="D:/reference libraries/cucumber_libraries/junit-4.11.jar"/>
 	<classpathentry kind="lib" path="D:/reference libraries/cucumber_libraries/mockito-all-1.10.19.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="D:/Library/selenium_libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="D:/Library/selenium_libs/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="D:/Library/selenium_libs/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Library/selenium_libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Library/selenium_libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="D:/Library/selenium_libs/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="D:/Library/selenium_libs/okio-1.14.0.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
